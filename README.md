@@ -5,7 +5,7 @@ MEng Computer Science student at the University of Bristol, with an interest in 
 
 I enjoy understanding how software works beneath the surface, from programming fundamentals and data structures to database design, system architecture, and the technologies that bring applications together.
 
-> Good software isn't just about making something work, but understanding how and why it works.
+> Good software isn't just about making something work, it's about understanding how and why it works.
 
 ## About Me
 
@@ -39,7 +39,7 @@ My long-term goal is to become a well-rounded software engineer with a strong un
 | Databases | MariaDB, MySQL, relational database design |
 | Development Tools | Git, GitHub, VS Code, GCC, Clang, GHCi |
 | Operating Systems | Linux, Ubuntu, Windows, WSL |
-| Other Tools | XAMPP, phpMyAdmin, SDL2 |
+| Other Tools | XAMPP, phpMyAdmin |
 
 I am continuously developing my knowledge of these technologies through university coursework, personal projects, and independent learning.
 
@@ -67,21 +67,11 @@ The application supports adding students, recording grades, retrieving student i
 
 It provided practical experience with database connections, SQL operations, input validation, and structured application logic.
 
-### Circular Doubly Linked List
-
-**C, Pointers, Dynamic Memory Allocation**
-
-Implemented a circular doubly linked list using a sentinel node as part of my university programming coursework.
-
-The implementation covers list traversal, insertion, deletion, memory management, and reversing a linked structure.
-
-This project has helped develop my understanding of pointers, heap allocation, memory safety, and implementing data structures in C.
-
 ### Web Development Projects
 
 **HTML, CSS, Web Development Tools**
 
-Worked on websites for businesses and independent projects, including [Ascend Education](https://ascendeducation.uk), an online tutoring service.
+Worked on websites for businesses and independent projects, including [S Hair Design](https://shairdesign.co.uk), a local hair salon.
 
 These projects have allowed me to explore website design, user experience, functionality, and the process of turning an idea into an accessible online platform.
 
@@ -97,8 +87,8 @@ As I progress through university and personal development, I want to strengthen 
 
 ## Education
 
-- **University of Bristol** — MEng Computer Science, 2026–Present
-- **A-Levels** — Mathematics, Physics, Computer Science, Extended Project Qualification
+- **University of Bristol** - MEng Computer Science, 2026–Present
+- **A-Levels** - Mathematics, Physics, Computer Science, Extended Project Qualification, 2024-2026
 
 ### Additional Learning And Development
 
@@ -125,4 +115,4 @@ As I progress through university and personal development, I want to strengthen 
 
 My focus is on continuously improving as a developer, understanding the principles behind the software I build, and applying that knowledge to increasingly challenging projects.
 
-I want to create software that is not only functional, but thoughtfully designed, maintainable, and genuinely useful.
+I want to create software that is not only functional but properly designed and maintainable as in an age of AI, maintanability of software becomes increasingly important .
